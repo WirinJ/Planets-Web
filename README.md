@@ -14,7 +14,3 @@ php artisan migrate
 
 php artisan serve
 ```
-
-# Voorbeeld
-
-![](https://i.imgur.com/RqPAJRd.png)
