@@ -1,5 +1,5 @@
 # Planets-API
-API geschreven met Laravel.
+Website geschreven met Laravel.
 
 # Installatie
 
