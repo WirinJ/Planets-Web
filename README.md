@@ -1,4 +1,4 @@
-# Planets-API
+# Planets-Web
 Website geschreven met Laravel.
 
 # Installatie
